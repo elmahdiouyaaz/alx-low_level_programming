@@ -1,1 +1,1 @@
-alx c programming laguage
+alx c programming language

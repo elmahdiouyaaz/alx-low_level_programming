@@ -1,4 +1,2 @@
 #!/bin/bash
 gcc -E "$CFILE" -o c
-
-echo "Preprocessing completed. Output saved in 'c'.
